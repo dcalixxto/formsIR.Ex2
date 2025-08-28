@@ -78,4 +78,4 @@ Este projeto tem como objetivo praticar **HTML, CSS e JavaScript** por meio da c
 - Este exercício é apenas **didático** e não representa a regra oficial de cálculo de IR.  
 - Para algumas funções em **JavaScript**, utilizei a **IA ChatGPT** para compreender e implementar recursos que ainda não conhecia.  
 - Também foi utilizada a **IA ChatGPT** para auxiliar na criação da estrutura do **HTML**, garantindo que todas as `div`s e `id`s estivessem alinhados corretamente com o CSS disponibilizado em aula.  
-- Este documento READ.md também foi realizado utilizando IA, pois não conhecimento em **markdown**. Deis instruções para a realização deste.
+- Este documento README.md também foi realizado utilizando IA, pois não conhecimento em **markdown**. Deis instruções para a realização deste.
